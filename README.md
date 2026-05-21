@@ -1,5 +1,5 @@
-# RDASApp
-Repository for JEDI-based data assimilation for the Rapid Refresh Forecast System (RRFS)
+# ADASApp
+A Data Assimilation System based on JEDI
 
 ### Currently supported platforms
 -   NOAA RDHPCS Hera
@@ -9,5 +9,5 @@ Repository for JEDI-based data assimilation for the Rapid Refresh Forecast Syste
 -   NOAA RDHPCS Gaea (C5 and C6)
 -   NOAA WCOSS2 
 
-## [How to clone and build RDASAPP?](docs/build_and_test.md)
-## [How to run RRFS CTest?](docs/build_and_test.md#3-rrfs-ctest)
+## [How to clone and build ADASAPP?](https://github.com/wx-workflow/ADASApp/wiki/Clone-and-build-ADASApp)
+## [How to run CTest?](https://github.com/wx-workflow/ADASApp/wiki/Clone-and-build-ADASApp#3-run-ctest)
