@@ -1,5 +1,5 @@
 # ADASApp
-A Data Assimilation System based on JEDI
+Advanced Data Assimilation System based on JEDI
 
 ### Currently supported platforms
 -   NOAA RDHPCS Hera
