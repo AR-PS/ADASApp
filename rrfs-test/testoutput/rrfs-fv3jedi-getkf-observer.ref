@@ -13,7 +13,7 @@ eastward_wind                                | Min:-2.6499134063720703e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.1691210746765137e+01 Max:+1.2939825057983398e+01 RMS:+3.6328999816775500e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.9181728363037109e+01 RMS:+1.8769473407694153e+00
 f10m                                         | Min:+1.0010293722152710e+00 Max:+1.1085011959075928e+00 RMS:+1.0205106412404941e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+7.9313456080853939e-04 RMS:+4.2198862484995632e-06
 northward_wind                               | Min:-3.1644960403442383e+01 Max:+3.3157646179199219e+01 RMS:+6.5269264427806881e+00
 northward_wind_at_surface                    | Min:-1.2777438163757324e+01 Max:+1.0426343917846680e+01 RMS:+3.5638121190691381e+00
@@ -48,7 +48,7 @@ eastward_wind                                | Min:-2.8106489181518555e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.4864308357238770e+01 Max:+1.1469396591186523e+01 RMS:+3.4569871212569332e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+5.9590534210205078e+01 RMS:+2.3376537771649231e+00
 f10m                                         | Min:+1.0004920959472656e+00 Max:+1.1078704595565796e+00 RMS:+1.0205072256851069e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+4.7882539220154285e-03 RMS:+7.7154541298624515e-06
 northward_wind                               | Min:-3.1490596771240234e+01 Max:+3.9901718139648438e+01 RMS:+6.5588310604157840e+00
 northward_wind_at_surface                    | Min:-1.2729414939880371e+01 Max:+1.1221634864807129e+01 RMS:+3.9029664001499098e+00
@@ -83,7 +83,7 @@ eastward_wind                                | Min:-2.6645488739013672e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0340871810913086e+01 Max:+1.2073328018188477e+01 RMS:+3.5179110487994820e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.4477657318115234e+01 RMS:+1.7741592975804632e+00
 f10m                                         | Min:+1.0006304979324341e+00 Max:+1.1086137294769287e+00 RMS:+1.0206786964123011e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+4.2577070416882634e-04 RMS:+9.1534298533668450e-07
 northward_wind                               | Min:-2.7244195938110352e+01 Max:+3.2044513702392578e+01 RMS:+6.1573691735834428e+00
 northward_wind_at_surface                    | Min:-1.2953789710998535e+01 Max:+9.7136249542236328e+00 RMS:+3.5734807281397258e+00
@@ -118,7 +118,7 @@ eastward_wind                                | Min:-2.6819168090820312e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.1100131988525391e+01 Max:+1.1823708534240723e+01 RMS:+3.3877647664301809e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.6072883605957031e+01 RMS:+1.8527358048001918e+00
 f10m                                         | Min:+1.0005342960357666e+00 Max:+1.1080715656280518e+00 RMS:+1.0209952679774752e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+4.7788396477699280e-04 RMS:+9.6205990673792208e-07
 northward_wind                               | Min:-2.9948707580566406e+01 Max:+2.7059003829956055e+01 RMS:+6.1318265632636297e+00
 northward_wind_at_surface                    | Min:-1.2767584800720215e+01 Max:+9.5143880844116211e+00 RMS:+3.7279408990995409e+00
@@ -153,7 +153,7 @@ eastward_wind                                | Min:-2.6862178802490234e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.2925534248352051e+01 Max:+1.3966143608093262e+01 RMS:+3.3427000669741425e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.8272666931152344e+01 RMS:+2.2378827988073713e+00
 f10m                                         | Min:+1.0008239746093750e+00 Max:+1.1048620939254761e+00 RMS:+1.0207912669696568e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+7.0545717608183622e-04 RMS:+3.2263647803686684e-06
 northward_wind                               | Min:-3.2490325927734375e+01 Max:+4.0594707489013672e+01 RMS:+6.4533389874139893e+00
 northward_wind_at_surface                    | Min:-1.2250809669494629e+01 Max:+1.2599195480346680e+01 RMS:+3.5274782615186409e+00
@@ -188,7 +188,7 @@ eastward_wind                                | Min:-2.7373611450195312e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0643139839172363e+01 Max:+1.1018150329589844e+01 RMS:+3.3030948121895305e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+5.2798191070556641e+01 RMS:+1.7531756280180126e+00
 f10m                                         | Min:+1.0010459423065186e+00 Max:+1.1089090108871460e+00 RMS:+1.0202157412000197e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+1.4912561746314168e-03 RMS:+3.3753050537889313e-06
 northward_wind                               | Min:-2.6300935745239258e+01 Max:+3.5502925872802734e+01 RMS:+6.0481649386029286e+00
 northward_wind_at_surface                    | Min:-1.3539147377014160e+01 Max:+9.1913623809814453e+00 RMS:+3.5562932363918800e+00
@@ -223,7 +223,7 @@ eastward_wind                                | Min:-2.6941808700561523e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.9843854904174805e+00 Max:+1.1445445060729980e+01 RMS:+3.2386021166234484e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+5.1118461608886719e+01 RMS:+1.9115281975281739e+00
 f10m                                         | Min:+1.0003613233566284e+00 Max:+1.1084893941879272e+00 RMS:+1.0206275303623997e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+1.1342980433255434e-03 RMS:+1.4203622416768220e-06
 northward_wind                               | Min:-2.6337463378906250e+01 Max:+3.1117197036743164e+01 RMS:+5.8862135505792832e+00
 northward_wind_at_surface                    | Min:-1.3317169189453125e+01 Max:+9.6216878890991211e+00 RMS:+3.5098755037030194e+00
@@ -258,7 +258,7 @@ eastward_wind                                | Min:-2.6109445571899414e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.4295978546142578e+00 Max:+1.1411372184753418e+01 RMS:+3.2840804598248927e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.7587364196777344e+01 RMS:+1.6983663926390116e+00
 f10m                                         | Min:+1.0003845691680908e+00 Max:+1.1039444208145142e+00 RMS:+1.0209412270767817e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+6.1563460621982813e-04 RMS:+1.2767287010119635e-06
 northward_wind                               | Min:-2.7203722000122070e+01 Max:+2.5723331451416016e+01 RMS:+5.8111438559023263e+00
 northward_wind_at_surface                    | Min:-1.3214738845825195e+01 Max:+9.8313846588134766e+00 RMS:+3.5908485318447054e+00
@@ -293,7 +293,7 @@ eastward_wind                                | Min:-2.6310241699218750e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0496703147888184e+01 Max:+1.2061970710754395e+01 RMS:+3.3455760995338530e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.8754928588867188e+01 RMS:+1.8815980431889372e+00
 f10m                                         | Min:+1.0008653402328491e+00 Max:+1.1021604537963867e+00 RMS:+1.0207109838045307e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+7.8567763557657599e-04 RMS:+3.0831080188114879e-06
 northward_wind                               | Min:-2.8684217453002930e+01 Max:+3.1660406112670898e+01 RMS:+6.2221365374410373e+00
 northward_wind_at_surface                    | Min:-1.3634943962097168e+01 Max:+1.0129566192626953e+01 RMS:+3.6632152300382641e+00
@@ -328,7 +328,7 @@ eastward_wind                                | Min:-2.7050924301147461e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.4312715530395508e+00 Max:+1.1629189491271973e+01 RMS:+3.3396088575015415e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.6621196746826172e+01 RMS:+2.0019714935875617e+00
 f10m                                         | Min:+1.0001921653747559e+00 Max:+1.1076467037200928e+00 RMS:+1.0208915264437164e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+5.0535448826849461e-04 RMS:+1.0376215875568819e-06
 northward_wind                               | Min:-2.8364637374877930e+01 Max:+3.3916038513183594e+01 RMS:+6.0548781194070758e+00
 northward_wind_at_surface                    | Min:-1.2216028213500977e+01 Max:+9.9193477630615234e+00 RMS:+3.6255961400869170e+00
@@ -363,7 +363,7 @@ eastward_wind                                | Min:-2.6616983413696289e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.5292758941650391e+00 Max:+1.1816952705383301e+01 RMS:+3.2343006893631125e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.4457557678222656e+01 RMS:+1.9590107133384158e+00
 f10m                                         | Min:+1.0005042552947998e+00 Max:+1.1078217029571533e+00 RMS:+1.0207586755531943e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+3.3330376027151942e-04 RMS:+8.2203013096608793e-07
 northward_wind                               | Min:-2.9337350845336914e+01 Max:+3.0298658370971680e+01 RMS:+6.0080666677559575e+00
 northward_wind_at_surface                    | Min:-1.3380660057067871e+01 Max:+9.3056859970092773e+00 RMS:+3.7530589322639081e+00
@@ -398,7 +398,7 @@ eastward_wind                                | Min:-2.6444913864135742e+01 Max:+
 eastward_wind_at_surface                     | Min:-8.9233903884887695e+00 Max:+1.1439523696899414e+01 RMS:+3.2099653590443782e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.7886676788330078e+01 RMS:+1.8429514853330617e+00
 f10m                                         | Min:+1.0007667541503906e+00 Max:+1.0994825363159180e+00 RMS:+1.0207185110790009e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+6.3303095521405339e-04 RMS:+6.5900457648316023e-07
 northward_wind                               | Min:-2.5791559219360352e+01 Max:+3.5664493560791016e+01 RMS:+6.0356068821683024e+00
 northward_wind_at_surface                    | Min:-1.2949017524719238e+01 Max:+9.3580150604248047e+00 RMS:+3.5174509417432640e+00
@@ -433,7 +433,7 @@ eastward_wind                                | Min:-2.7489501953125000e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0852389335632324e+01 Max:+1.2020939826965332e+01 RMS:+3.3600411560126036e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.4189376831054688e+01 RMS:+1.9356926669489902e+00
 f10m                                         | Min:+1.0007030963897705e+00 Max:+1.1027519702911377e+00 RMS:+1.0206560990702465e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+3.8780685281381011e-04 RMS:+9.5222941165563170e-07
 northward_wind                               | Min:-3.4519397735595703e+01 Max:+4.2484031677246094e+01 RMS:+6.6609980771881654e+00
 northward_wind_at_surface                    | Min:-1.3401623725891113e+01 Max:+9.9918022155761719e+00 RMS:+3.8914064653237195e+00
@@ -468,7 +468,7 @@ eastward_wind                                | Min:-2.7420936584472656e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.9875345230102539e+00 Max:+1.1882641792297363e+01 RMS:+3.4200838445535999e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.9607604980468750e+01 RMS:+1.8979599463585188e+00
 f10m                                         | Min:+1.0009058713912964e+00 Max:+1.1014741659164429e+00 RMS:+1.0206737240784856e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+7.9000170808285475e-04 RMS:+1.8436741527673516e-06
 northward_wind                               | Min:-2.8945447921752930e+01 Max:+3.1073390960693359e+01 RMS:+6.2801355306844835e+00
 northward_wind_at_surface                    | Min:-1.2942864418029785e+01 Max:+9.7974967956542969e+00 RMS:+3.5442389408038739e+00
@@ -503,7 +503,7 @@ eastward_wind                                | Min:-2.7825143814086914e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0429913520812988e+01 Max:+1.2154385566711426e+01 RMS:+3.4312175995387397e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+5.0178947448730469e+01 RMS:+1.9787020848711694e+00
 f10m                                         | Min:+1.0010336637496948e+00 Max:+1.0994629859924316e+00 RMS:+1.0206093053297700e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+9.0444501256570220e-04 RMS:+1.9668817554048730e-06
 northward_wind                               | Min:-2.8515384674072266e+01 Max:+3.6520645141601562e+01 RMS:+6.2768326066375959e+00
 northward_wind_at_surface                    | Min:-1.2884078025817871e+01 Max:+1.0011810302734375e+01 RMS:+3.7102796823939070e+00
@@ -538,7 +538,7 @@ eastward_wind                                | Min:-2.7000873565673828e+01 Max:+
 eastward_wind_at_surface                     | Min:-8.7631273269653320e+00 Max:+1.1287795066833496e+01 RMS:+3.2676982582632697e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.1981380462646484e+01 RMS:+2.0210055014289807e+00
 f10m                                         | Min:+1.0005049705505371e+00 Max:+1.0964636802673340e+00 RMS:+1.0204223390835310e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+2.9014464234933257e-04 RMS:+6.0497935155789601e-07
 northward_wind                               | Min:-2.7646337509155273e+01 Max:+3.1859035491943359e+01 RMS:+6.1592265312787653e+00
 northward_wind_at_surface                    | Min:-1.3355172157287598e+01 Max:+9.6950159072875977e+00 RMS:+3.5742693283186693e+00
@@ -573,7 +573,7 @@ eastward_wind                                | Min:-2.7157186508178711e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.3698091506958008e+00 Max:+1.1300599098205566e+01 RMS:+3.3538538472973913e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.6960330963134766e+01 RMS:+1.9648390916991796e+00
 f10m                                         | Min:+1.0007419586181641e+00 Max:+1.1030770540237427e+00 RMS:+1.0207619863687358e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+6.0589157510548830e-04 RMS:+1.6922761623141440e-06
 northward_wind                               | Min:-3.0899242401123047e+01 Max:+2.6454854965209961e+01 RMS:+6.1894928930491639e+00
 northward_wind_at_surface                    | Min:-1.2610709190368652e+01 Max:+1.0136912345886230e+01 RMS:+3.6525551630889184e+00
@@ -608,7 +608,7 @@ eastward_wind                                | Min:-2.5910966873168945e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.3483943939208984e+00 Max:+1.1714021682739258e+01 RMS:+3.3757181832790994e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.5207752227783203e+01 RMS:+2.0291811901199854e+00
 f10m                                         | Min:+1.0004552602767944e+00 Max:+1.1027778387069702e+00 RMS:+1.0204410035825995e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+5.2541203331202269e-04 RMS:+8.5246035440320585e-07
 northward_wind                               | Min:-2.8452053070068359e+01 Max:+3.1736547470092773e+01 RMS:+6.2438461983275237e+00
 northward_wind_at_surface                    | Min:-1.3701957702636719e+01 Max:+9.7644786834716797e+00 RMS:+3.5402259803463010e+00
@@ -643,7 +643,7 @@ eastward_wind                                | Min:-2.7315406799316406e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.2092492103576660e+01 Max:+1.1092357635498047e+01 RMS:+3.3857479778925068e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.3489124298095703e+01 RMS:+1.6517085988893399e+00
 f10m                                         | Min:+1.0009936094284058e+00 Max:+1.1013786792755127e+00 RMS:+1.0203956229961613e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+3.5461023799143732e-04 RMS:+1.2991375849335226e-06
 northward_wind                               | Min:-2.9755792617797852e+01 Max:+3.5338039398193359e+01 RMS:+6.2739654397669051e+00
 northward_wind_at_surface                    | Min:-1.2614321708679199e+01 Max:+9.2131290435791016e+00 RMS:+3.4297167929060897e+00
@@ -678,7 +678,7 @@ eastward_wind                                | Min:-2.6014789581298828e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.1851888656616211e+01 Max:+1.1261158943176270e+01 RMS:+3.4935126585099110e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+6.1195442199707031e+01 RMS:+2.0563750746635665e+00
 f10m                                         | Min:+1.0010197162628174e+00 Max:+1.1039352416992188e+00 RMS:+1.0205018287223973e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+5.5355890654027462e-03 RMS:+9.2992057655070724e-06
 northward_wind                               | Min:-2.7819715499877930e+01 Max:+4.2136608123779297e+01 RMS:+6.0615455303343353e+00
 northward_wind_at_surface                    | Min:-1.3056243896484375e+01 Max:+9.6190900802612305e+00 RMS:+3.5835695284316902e+00
@@ -713,7 +713,7 @@ eastward_wind                                | Min:-2.6188514709472656e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.1290343284606934e+01 Max:+1.1202477455139160e+01 RMS:+3.4166357970280785e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.9335563659667969e+01 RMS:+2.3615385593009695e+00
 f10m                                         | Min:+1.0003656148910522e+00 Max:+1.1084601879119873e+00 RMS:+1.0203796245168915e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+8.1368529936298728e-04 RMS:+4.4778401235270193e-06
 northward_wind                               | Min:-2.7916820526123047e+01 Max:+3.2147224426269531e+01 RMS:+6.0427201942716620e+00
 northward_wind_at_surface                    | Min:-1.2946801185607910e+01 Max:+1.1436056137084961e+01 RMS:+3.5621992336622808e+00
@@ -748,7 +748,7 @@ eastward_wind                                | Min:-2.6561527252197266e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0355843544006348e+01 Max:+1.1481708526611328e+01 RMS:+3.4679632545212113e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.4390937805175781e+01 RMS:+1.9747700211649666e+00
 f10m                                         | Min:+1.0010706186294556e+00 Max:+1.0991570949554443e+00 RMS:+1.0206639788559853e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+3.9449002360925078e-04 RMS:+8.6178688645630525e-07
 northward_wind                               | Min:-2.9531391143798828e+01 Max:+4.1920310974121094e+01 RMS:+6.2035271192375916e+00
 northward_wind_at_surface                    | Min:-1.3145040512084961e+01 Max:+9.2159337997436523e+00 RMS:+3.4886816976149366e+00
@@ -783,7 +783,7 @@ eastward_wind                                | Min:-2.6444728851318359e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0533911705017090e+01 Max:+1.2737628936767578e+01 RMS:+3.2747263091382495e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+3.9236633300781250e+01 RMS:+1.8683226428650044e+00
 f10m                                         | Min:+1.0010075569152832e+00 Max:+1.1049501895904541e+00 RMS:+1.0202333257101130e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+1.7807664698921144e-04 RMS:+9.5240185423353422e-07
 northward_wind                               | Min:-2.8629962921142578e+01 Max:+3.6595153808593750e+01 RMS:+6.1928383554810056e+00
 northward_wind_at_surface                    | Min:-1.3030513763427734e+01 Max:+9.3269882202148438e+00 RMS:+3.6704737718483078e+00
@@ -818,7 +818,7 @@ eastward_wind                                | Min:-2.5959833145141602e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0224506378173828e+01 Max:+1.1570606231689453e+01 RMS:+3.3144745982222714e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.9934772491455078e+01 RMS:+1.9450742138490098e+00
 f10m                                         | Min:+1.0001342296600342e+00 Max:+1.1027617454528809e+00 RMS:+1.0205748330176776e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+8.6910359095782042e-04 RMS:+2.8533812236678946e-06
 northward_wind                               | Min:-2.5882120132446289e+01 Max:+3.3780193328857422e+01 RMS:+6.2699357601347225e+00
 northward_wind_at_surface                    | Min:-1.3152282714843750e+01 Max:+9.5144872665405273e+00 RMS:+3.7770920262330576e+00
@@ -853,7 +853,7 @@ eastward_wind                                | Min:-2.5737062454223633e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0136228561401367e+01 Max:+1.1409724235534668e+01 RMS:+3.2810001667726296e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.5402057647705078e+01 RMS:+1.8247708731526002e+00
 f10m                                         | Min:+1.0004975795745850e+00 Max:+1.1042753458023071e+00 RMS:+1.0203274431933953e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+4.6805076999589801e-04 RMS:+1.5630050613997599e-06
 northward_wind                               | Min:-2.6674322128295898e+01 Max:+3.5979244232177734e+01 RMS:+6.1021957276195957e+00
 northward_wind_at_surface                    | Min:-1.2669143676757812e+01 Max:+9.5565891265869141e+00 RMS:+3.6182034366881664e+00
@@ -888,7 +888,7 @@ eastward_wind                                | Min:-2.7192140579223633e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.9883956909179688e+00 Max:+1.1656060218811035e+01 RMS:+3.3210037226044888e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.1298461914062500e+01 RMS:+2.1122648148477206e+00
 f10m                                         | Min:+1.0009987354278564e+00 Max:+1.0985118150711060e+00 RMS:+1.0205941606994164e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+2.4531010421924293e-04 RMS:+7.4426867912662741e-07
 northward_wind                               | Min:-3.0041959762573242e+01 Max:+3.2485038757324219e+01 RMS:+6.3402114089915784e+00
 northward_wind_at_surface                    | Min:-1.2633304595947266e+01 Max:+9.3295946121215820e+00 RMS:+3.5141500469824520e+00
@@ -923,7 +923,7 @@ eastward_wind                                | Min:-2.6835887908935547e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.8928718566894531e+00 Max:+1.2953110694885254e+01 RMS:+3.5237678348879196e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.7810054779052734e+01 RMS:+1.8608752439355345e+00
 f10m                                         | Min:+1.0005044937133789e+00 Max:+1.1071428060531616e+00 RMS:+1.0209192636245934e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+6.5095350146293640e-04 RMS:+1.4338746122396914e-06
 northward_wind                               | Min:-3.0115221023559570e+01 Max:+3.7450244903564453e+01 RMS:+6.4044244439862377e+00
 northward_wind_at_surface                    | Min:-1.3290473937988281e+01 Max:+1.0209788322448730e+01 RMS:+3.6526832127137068e+00
@@ -958,7 +958,7 @@ eastward_wind                                | Min:-2.6543588638305664e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0387012481689453e+01 Max:+1.1728924751281738e+01 RMS:+3.3489474322654407e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+5.9450252532958984e+01 RMS:+2.1889031582969802e+00
 f10m                                         | Min:+1.0007839202880859e+00 Max:+1.1072332859039307e+00 RMS:+1.0202355167357464e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+4.3462654575705528e-03 RMS:+7.8102427646016389e-06
 northward_wind                               | Min:-2.9944709777832031e+01 Max:+4.2218105316162109e+01 RMS:+6.6230214626247257e+00
 northward_wind_at_surface                    | Min:-1.3679360389709473e+01 Max:+9.4382076263427734e+00 RMS:+3.8859635019627885e+00
@@ -993,7 +993,7 @@ eastward_wind                                | Min:-2.8364118576049805e+01 Max:+
 eastward_wind_at_surface                     | Min:-9.8029747009277344e+00 Max:+1.1659111022949219e+01 RMS:+3.3170189231306759e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.8860099792480469e+01 RMS:+1.8306700881342721e+00
 f10m                                         | Min:+1.0010652542114258e+00 Max:+1.1019473075866699e+00 RMS:+1.0204120408578425e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+8.0992258153855801e-04 RMS:+1.2041788977539021e-06
 northward_wind                               | Min:-2.4769571304321289e+01 Max:+3.4585147857666016e+01 RMS:+5.9663506723325979e+00
 northward_wind_at_surface                    | Min:-1.3648909568786621e+01 Max:+8.6021451950073242e+00 RMS:+3.6655068269960633e+00
@@ -1028,7 +1028,7 @@ eastward_wind                                | Min:-2.6312522888183594e+01 Max:+
 eastward_wind_at_surface                     | Min:-1.0924118995666504e+01 Max:+1.1375329017639160e+01 RMS:+3.3466594586774581e+00
 equivalent_reflectivity_factor               | Min:+0.0000000000000000e+00 Max:+4.7162796020507812e+01 RMS:+2.0101593488094474e+00
 f10m                                         | Min:+1.0009289979934692e+00 Max:+1.0969384908676147e+00 RMS:+1.0203432043141873e+00
-geopotential_height_times_gravity_at_surface | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
+geopotential_at_surface                      | Min:+0.0000000000000000e+00 Max:+3.5301851562500000e+04 RMS:+7.8466628379223766e+03
 graupel                                      | Min:+0.0000000000000000e+00 Max:+5.3388025844469666e-04 RMS:+1.5090378624514516e-06
 northward_wind                               | Min:-2.8507663726806641e+01 Max:+3.5720829010009766e+01 RMS:+6.3053290523285064e+00
 northward_wind_at_surface                    | Min:-1.2990812301635742e+01 Max:+1.0442095756530762e+01 RMS:+3.7639049738976675e+00
@@ -1050,257 +1050,258 @@ water_vapor_mixing_ratio_wrt_moist_air_at_2m | Min:+1.9259110558778048e-03 Max:+
 ----------------------------------------------------------------------------------------------------
 H(x) for member 1:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.3812874786882, Max=307.5977213992193, RMS=259.2470974481104
+aircar_airTemperature_133 nobs= 26922 Min=212.3812874683791, Max=307.5977213887087, RMS=259.2470974480365
 
-aircar_specificHumidity_133 nobs= 3846 Min=5.220677855045235e-06, Max=0.01826092295856934, RMS=0.005205048346187103
+aircar_specificHumidity_133 nobs= 3846 Min=5.220677853518396e-06, Max=0.0182609229949451, RMS=0.005205048345950635
 
-aircar_winds_233 nobs= 57250 Min=-27.06309005889801, Max=47.86326551110414, RMS=14.60849159090654
+aircar_winds_233 nobs= 57250 Min=-27.06308997284955, Max=47.86326543867006, RMS=14.60849159077991
 
 H(x) for member 2:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.7790511928825, Max=309.7700128122494, RMS=259.472206684423
+aircar_airTemperature_133 nobs= 26922 Min=211.7790511966261, Max=309.7700128191275, RMS=259.4722066844041
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.421600852067062e-06, Max=0.01858403275297742, RMS=0.005117764223151162
+aircar_specificHumidity_133 nobs= 3846 Min=3.421600951340848e-06, Max=0.01858403275812982, RMS=0.005117764223156907
 
-aircar_winds_233 nobs= 57250 Min=-26.93854447133682, Max=51.23034457914417, RMS=14.4931721503561
+aircar_winds_233 nobs= 57250 Min=-26.93854539397659, Max=51.23034487059761, RMS=14.49317215055224
 
 H(x) for member 3:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.5874424808054, Max=310.8097776784017, RMS=259.2698491511082
+aircar_airTemperature_133 nobs= 26922 Min=211.5874424764058, Max=310.8097777565329, RMS=259.2698491511727
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.875699187127663e-06, Max=0.01871115420987617, RMS=0.005276643694063598
+aircar_specificHumidity_133 nobs= 3846 Min=4.875699192536524e-06, Max=0.01871115423693501, RMS=0.005276643693994883
 
-aircar_winds_233 nobs= 57250 Min=-23.57846275946175, Max=46.55127127217939, RMS=14.20655984815897
+aircar_winds_233 nobs= 57250 Min=-23.57846289835422, Max=46.55127122429076, RMS=14.20655984837357
 
 H(x) for member 4:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.2795493536024, Max=310.4366761609242, RMS=259.3331137370046
+aircar_airTemperature_133 nobs= 26922 Min=212.2795493531034, Max=310.4366761755651, RMS=259.3331137369357
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.205589646556277e-06, Max=0.01966640758370768, RMS=0.005244927565866692
+aircar_specificHumidity_133 nobs= 3846 Min=4.205589640775422e-06, Max=0.01966640757837902, RMS=0.005244927566311714
 
-aircar_winds_233 nobs= 57250 Min=-26.98267477876789, Max=52.25763667655286, RMS=14.71591052211834
+aircar_winds_233 nobs= 57250 Min=-26.98267471722677, Max=52.25763670589104, RMS=14.71591052217442
 
 H(x) for member 5:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.8094534211187, Max=308.0848222538159, RMS=259.4521771083555
+aircar_airTemperature_133 nobs= 26922 Min=211.8094534284708, Max=308.0848222745089, RMS=259.452177108389
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.687493946527576e-06, Max=0.01970173797496382, RMS=0.005720655745604611
+aircar_specificHumidity_133 nobs= 3846 Min=3.687493949676925e-06, Max=0.01970173796634896, RMS=0.005720655744758784
 
-aircar_winds_233 nobs= 57250 Min=-26.93750037141715, Max=47.39793122190079, RMS=14.70008372458805
+aircar_winds_233 nobs= 57250 Min=-26.93750072644495, Max=47.39793126666846, RMS=14.70008372469152
 
 H(x) for member 6:
 
-aircar_airTemperature_133 nobs= 26922 Min=210.1757365289305, Max=309.8000340624974, RMS=259.4924275545271
+aircar_airTemperature_133 nobs= 26922 Min=210.1757366268914, Max=309.800034082519, RMS=259.492427554531
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.39242355996969e-06, Max=0.0192769416460341, RMS=0.005592965417261021
+aircar_specificHumidity_133 nobs= 3846 Min=4.392423626782638e-06, Max=0.01927694168345169, RMS=0.005592965418583402
 
-aircar_winds_233 nobs= 57250 Min=-25.28504917297271, Max=47.75129727432565, RMS=14.48239714831556
+aircar_winds_233 nobs= 57250 Min=-25.28504914850785, Max=47.75129727923235, RMS=14.48239714804715
 
 H(x) for member 7:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.1264177643089, Max=309.6422842904256, RMS=259.5580563688794
+aircar_airTemperature_133 nobs= 26922 Min=212.1264177653642, Max=309.6422842980922, RMS=259.5580563688508
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.076401213806713e-06, Max=0.01939456935257904, RMS=0.005609904532568377
+aircar_specificHumidity_133 nobs= 3846 Min=4.076401189663025e-06, Max=0.01939456935450285, RMS=0.005609904532192091
 
-aircar_winds_233 nobs= 57250 Min=-24.04049090496977, Max=46.17878949315217, RMS=14.20379992250844
+aircar_winds_233 nobs= 57250 Min=-24.04049096136349, Max=46.17878949949752, RMS=14.20379992226268
 
 H(x) for member 8:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.7400945060281, Max=308.7448591455147, RMS=259.3308743437729
+aircar_airTemperature_133 nobs= 26922 Min=211.740094519712, Max=308.7448591351927, RMS=259.3308743436861
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.488273901881478e-06, Max=0.01996570009193776, RMS=0.005354291956852636
+aircar_specificHumidity_133 nobs= 3846 Min=3.488273912980528e-06, Max=0.01996569998508003, RMS=0.005354291956352832
 
-aircar_winds_233 nobs= 57250 Min=-25.6969876018515, Max=47.09375702851241, RMS=14.37145034401369
+aircar_winds_233 nobs= 57250 Min=-25.69698770208617, Max=47.09375699629358, RMS=14.37145034409478
 
 H(x) for member 9:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.5624636887288, Max=307.4679331791601, RMS=259.4124784362019
+aircar_airTemperature_133 nobs= 26922 Min=211.5624636856012, Max=307.4679331670413, RMS=259.4124784360162
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.165254284971176e-06, Max=0.02018035690687058, RMS=0.005633116749052003
+aircar_specificHumidity_133 nobs= 3846 Min=3.165254284891169e-06, Max=0.02018035689132685, RMS=0.005633116749519672
 
-aircar_winds_233 nobs= 57250 Min=-26.71111625811021, Max=48.60799361843864, RMS=14.78779075805078
+aircar_winds_233 nobs= 57250 Min=-26.71111621573953, Max=48.60799361855951, RMS=14.78779075828724
 
 H(x) for member 10:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.8961745678163, Max=312.0471087857411, RMS=259.2367410210338
+aircar_airTemperature_133 nobs= 26922 Min=211.8961745680503, Max=312.0471088640773, RMS=259.2367410210439
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.481951296915633e-06, Max=0.01977046178114388, RMS=0.005283528785102771
+aircar_specificHumidity_133 nobs= 3846 Min=3.481951293534618e-06, Max=0.01977046178073372, RMS=0.005283528784863059
 
-aircar_winds_233 nobs= 57250 Min=-24.83811028174355, Max=45.56378817353651, RMS=14.72212246097977
+aircar_winds_233 nobs= 57250 Min=-24.83811022661136, Max=45.563788206019, RMS=14.72212246087477
 
 H(x) for member 11:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.6703448547302, Max=309.4921564921067, RMS=259.4121582549377
+aircar_airTemperature_133 nobs= 26922 Min=211.670344881228, Max=309.4921564978384, RMS=259.4121582550738
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.911084501980426e-06, Max=0.0199777784063087, RMS=0.005542068365704795
+aircar_specificHumidity_133 nobs= 3846 Min=4.911084502111834e-06, Max=0.0199777784299485, RMS=0.005542068365908163
 
-aircar_winds_233 nobs= 57250 Min=-26.75223109397796, Max=47.82450913073532, RMS=14.42971227408989
+aircar_winds_233 nobs= 57250 Min=-26.75223118558743, Max=47.82450923268276, RMS=14.42971227386737
 
 H(x) for member 12:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.1266084544687, Max=309.3065903797076, RMS=259.4444679527517
+aircar_airTemperature_133 nobs= 26922 Min=212.1266084487461, Max=309.3065903740129, RMS=259.4444679528647
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.763417139946782e-06, Max=0.01951944985818837, RMS=0.005358618472623255
+aircar_specificHumidity_133 nobs= 3846 Min=3.76341710956237e-06, Max=0.01951944985311727, RMS=0.005358618472882777
 
-aircar_winds_233 nobs= 57250 Min=-24.10673701173362, Max=46.12262383066884, RMS=14.09684142636062
+aircar_winds_233 nobs= 57250 Min=-24.10673703078688, Max=46.12262383302854, RMS=14.09684142607052
 
 H(x) for member 13:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.6125518314867, Max=305.3620551454418, RMS=259.5488889550339
+aircar_airTemperature_133 nobs= 26922 Min=211.6125518357254, Max=305.3620551024886, RMS=259.5488889548973
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.732937750979148e-06, Max=0.02008314690362449, RMS=0.00517000894752067
+aircar_specificHumidity_133 nobs= 3846 Min=4.73293768060325e-06, Max=0.0200831468840576, RMS=0.005170008947212723
 
-aircar_winds_233 nobs= 57250 Min=-29.35804785676871, Max=48.90443004594798, RMS=15.2159642471318
+aircar_winds_233 nobs= 57250 Min=-29.35804744886477, Max=48.90442981012222, RMS=15.21596424682319
 
 H(x) for member 14:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.9693568915455, Max=310.0545625849888, RMS=259.1578364707941
+aircar_airTemperature_133 nobs= 26922 Min=211.9693568922308, Max=310.0545625724631, RMS=259.1578364706413
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.179123523789699e-06, Max=0.01915716306290842, RMS=0.005391508098038372
+aircar_specificHumidity_133 nobs= 3846 Min=3.179123470249979e-06, Max=0.01915716305915926, RMS=0.005391508097930415
 
-aircar_winds_233 nobs= 57250 Min=-26.26688595456854, Max=49.80325293916306, RMS=14.908861412098
+aircar_winds_233 nobs= 57250 Min=-26.26688590482954, Max=49.80325277873872, RMS=14.90886141183272
 
 H(x) for member 15:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.9523572679691, Max=308.0121183558629, RMS=259.5503566938941
+aircar_airTemperature_133 nobs= 26922 Min=211.9523572722211, Max=308.0121183576463, RMS=259.5503566939578
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.45949484954732e-06, Max=0.01841607216089751, RMS=0.005419988876521422
+aircar_specificHumidity_133 nobs= 3846 Min=3.459494903572564e-06, Max=0.01841607215228943, RMS=0.005419988876488438
 
-aircar_winds_233 nobs= 57250 Min=-24.76453475686465, Max=47.41561086645285, RMS=14.46453280749904
+aircar_winds_233 nobs= 57250 Min=-24.76453481387573, Max=47.41561086015557, RMS=14.46453280747451
 
 H(x) for member 16:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.8637830846338, Max=308.7968508168385, RMS=259.6154566106985
+aircar_airTemperature_133 nobs= 26922 Min=211.8637830808007, Max=308.7968508077331, RMS=259.6154566108154
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.069648269944303e-06, Max=0.01994978511981453, RMS=0.005510240440353357
+aircar_specificHumidity_133 nobs= 3846 Min=3.069648238195848e-06, Max=0.01994978509520869, RMS=0.005510240440264321
 
-aircar_winds_233 nobs= 57250 Min=-25.72400906545451, Max=46.88838911855862, RMS=14.17057640781703
+aircar_winds_233 nobs= 57250 Min=-25.72400948535639, Max=46.88838909039548, RMS=14.17057640752212
 
 H(x) for member 17:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.7216046928144, Max=310.3177890940831, RMS=259.2965397472812
+aircar_airTemperature_133 nobs= 26922 Min=211.7216047073199, Max=310.3177890512749, RMS=259.2965397472415
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.389395229520453e-06, Max=0.01897289656960193, RMS=0.005138991756187807
+aircar_specificHumidity_133 nobs= 3846 Min=3.389395218326721e-06, Max=0.01897289658149303, RMS=0.005138991755915287
 
-aircar_winds_233 nobs= 57250 Min=-27.85694907917175, Max=45.99921005637315, RMS=13.932440082338
+aircar_winds_233 nobs= 57250 Min=-27.85694933770344, Max=45.9992100521779, RMS=13.93244008263112
 
 H(x) for member 18:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.3612396352319, Max=310.4834149047063, RMS=259.6124662240378
+aircar_airTemperature_133 nobs= 26922 Min=211.3612396057044, Max=310.4834148971829, RMS=259.6124662240059
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.430781558550955e-06, Max=0.0202027803604996, RMS=0.005696449517459921
+aircar_specificHumidity_133 nobs= 3846 Min=3.430781492779388e-06, Max=0.02020278042889393, RMS=0.00569644951817292
 
-aircar_winds_233 nobs= 57250 Min=-27.07336727758919, Max=46.21524894874901, RMS=13.98684019587642
+aircar_winds_233 nobs= 57250 Min=-27.07336736488122, Max=46.21524895825585, RMS=13.98684019615067
 
 H(x) for member 19:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.0348074166751, Max=311.0225581093953, RMS=259.4912421963898
+aircar_airTemperature_133 nobs= 26922 Min=212.0348074182267, Max=311.02255816433, RMS=259.4912421964332
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.568191207310618e-06, Max=0.01965074320366393, RMS=0.005373656686856878
+aircar_specificHumidity_133 nobs= 3846 Min=4.568191211076598e-06, Max=0.01965074320563356, RMS=0.005373656686932412
 
-aircar_winds_233 nobs= 57250 Min=-24.7529922565932, Max=49.83903693825868, RMS=14.26081166411804
+aircar_winds_233 nobs= 57250 Min=-24.75299224887834, Max=49.83903678521258, RMS=14.2608116641981
 
 H(x) for member 20:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.0116088567283, Max=307.6847769464017, RMS=259.5811029194768
+aircar_airTemperature_133 nobs= 26922 Min=212.0116088592493, Max=307.6847769275825, RMS=259.5811029193601
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.876334965467401e-06, Max=0.02038312399215457, RMS=0.005779892328288221
+aircar_specificHumidity_133 nobs= 3846 Min=3.876334949550746e-06, Max=0.02038312406088462, RMS=0.005779892327102562
 
-aircar_winds_233 nobs= 57250 Min=-23.96236241241853, Max=47.67534434468416, RMS=14.06712251690767
+aircar_winds_233 nobs= 57250 Min=-23.96236244125436, Max=47.6753443431425, RMS=14.06712251680831
 
 H(x) for member 21:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.9960293483715, Max=313.3422588273213, RMS=259.4009948912928
+aircar_airTemperature_133 nobs= 26922 Min=211.996029129333, Max=313.3422586942513, RMS=259.4009948912676
 
-aircar_specificHumidity_133 nobs= 3846 Min=5.015539680992426e-06, Max=0.02031387281646739, RMS=0.005513094338862182
+aircar_specificHumidity_133 nobs= 3846 Min=5.015539738766163e-06, Max=0.02031387282803301, RMS=0.005513094339260567
 
-aircar_winds_233 nobs= 57250 Min=-23.38924215260652, Max=47.32633800885932, RMS=14.32429822542002
+aircar_winds_233 nobs= 57250 Min=-23.38924215156817, Max=47.32633806346069, RMS=14.32429822547631
 
 H(x) for member 22:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.9800010677509, Max=307.6970268651173, RMS=259.4007394851103
+aircar_airTemperature_133 nobs= 26922 Min=211.9800010677892, Max=307.6970268283843, RMS=259.4007394852072
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.113222956259946e-06, Max=0.01925760271012105, RMS=0.005247027125029099
+aircar_specificHumidity_133 nobs= 3846 Min=4.113222935887165e-06, Max=0.01925760271013975, RMS=0.005247027125028774
 
-aircar_winds_233 nobs= 57250 Min=-25.83875788637076, Max=46.71364277117675, RMS=14.38690617429214
+aircar_winds_233 nobs= 57250 Min=-25.83875786153664, Max=46.71364278539678, RMS=14.38690617451015
 
 H(x) for member 23:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.1756542451284, Max=306.0340223570474, RMS=259.4274152447249
+aircar_airTemperature_133 nobs= 26922 Min=212.175654232615, Max=306.0340223797425, RMS=259.4274152445969
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.291215078769696e-06, Max=0.01865254910688047, RMS=0.005281822731399044
+aircar_specificHumidity_133 nobs= 3846 Min=4.291215058880784e-06, Max=0.01865254914456569, RMS=0.005281822732373959
 
-aircar_winds_233 nobs= 57250 Min=-26.72100260894612, Max=45.71304606540851, RMS=14.34088527557998
+aircar_winds_233 nobs= 57250 Min=-26.7210024903685, Max=45.7130460804515, RMS=14.34088527515314
 
 H(x) for member 24:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.640914845345, Max=312.1949497624562, RMS=259.3406057244765
+aircar_airTemperature_133 nobs= 26922 Min=211.6409148567384, Max=312.1949496646731, RMS=259.3406057245182
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.730614799080384e-06, Max=0.01998195172097321, RMS=0.00521827000574052
+aircar_specificHumidity_133 nobs= 3846 Min=3.730614855278199e-06, Max=0.0199819517385046, RMS=0.005218270006462344
 
-aircar_winds_233 nobs= 57250 Min=-22.92043313655761, Max=49.08900952012208, RMS=14.07414693385806
+aircar_winds_233 nobs= 57250 Min=-22.92043311431475, Max=49.08900942045567, RMS=14.07414693404353
 
 H(x) for member 25:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.5364080600767, Max=310.0635792180226, RMS=259.3780429426018
+aircar_airTemperature_133 nobs= 26922 Min=211.5364080629057, Max=310.063579235719, RMS=259.3780429426731
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.080890817515851e-06, Max=0.02024978747046945, RMS=0.005659635710292769
+aircar_specificHumidity_133 nobs= 3846 Min=4.080890822919547e-06, Max=0.02024978746066682, RMS=0.005659635710110799
 
-aircar_winds_233 nobs= 57250 Min=-24.75493907795028, Max=43.99109506765788, RMS=13.82314506203995
+aircar_winds_233 nobs= 57250 Min=-24.754939513864, Max=43.99109508087427, RMS=13.82314506168231
 
 H(x) for member 26:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.129338585618, Max=309.8493375345395, RMS=259.4387107868274
+aircar_airTemperature_133 nobs= 26922 Min=212.1293385868674, Max=309.8493375235463, RMS=259.4387107869751
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.852941722782005e-06, Max=0.01934539434557219, RMS=0.005523218483046159
+aircar_specificHumidity_133 nobs= 3846 Min=3.852941775935476e-06, Max=0.01934539434637759, RMS=0.005523218483560695
 
-aircar_winds_233 nobs= 57250 Min=-26.09254077117756, Max=44.88321151043768, RMS=14.49354490533945
+aircar_winds_233 nobs= 57250 Min=-26.09254036483244, Max=44.88321152897808, RMS=14.49354490528976
 
 H(x) for member 27:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.9648244848031, Max=309.7487034364865, RMS=259.3490404255093
+aircar_airTemperature_133 nobs= 26922 Min=211.9648245336221, Max=309.7487034089719, RMS=259.3490404254522
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.206315938118388e-06, Max=0.01884633175256449, RMS=0.005287772581037979
+aircar_specificHumidity_133 nobs= 3846 Min=4.206315959608968e-06, Max=0.01884633175730421, RMS=0.005287772581120292
 
-aircar_winds_233 nobs= 57250 Min=-25.5324542912931, Max=47.98387479298538, RMS=14.96207691782259
+aircar_winds_233 nobs= 57250 Min=-25.53245395496218, Max=47.98387472954828, RMS=14.96207691820215
 
 H(x) for member 28:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.6305041513271, Max=308.3576989933179, RMS=259.5356510632285
+aircar_airTemperature_133 nobs= 26922 Min=211.6305042563598, Max=308.3576990143798, RMS=259.5356510631962
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.376412392328768e-06, Max=0.01943687859482263, RMS=0.005544905319190619
+aircar_specificHumidity_133 nobs= 3846 Min=4.376412397638035e-06, Max=0.01943687864445279, RMS=0.005544905319764431
 
-aircar_winds_233 nobs= 57250 Min=-26.85048229865028, Max=52.40015109022824, RMS=14.08475873803529
+aircar_winds_233 nobs= 57250 Min=-26.85048209691058, Max=52.40015067439143, RMS=14.08475873840171
 
 H(x) for member 29:
 
-aircar_airTemperature_133 nobs= 26922 Min=212.3947313659219, Max=308.3014732166455, RMS=259.2988729312152
+aircar_airTemperature_133 nobs= 26922 Min=212.3947313544851, Max=308.3014732450188, RMS=259.2988729311895
 
-aircar_specificHumidity_133 nobs= 3846 Min=4.266973590006628e-06, Max=0.01917810062047347, RMS=0.005467025498053413
+aircar_specificHumidity_133 nobs= 3846 Min=4.266973621609192e-06, Max=0.01917810062468889, RMS=0.005467025498352879
 
-aircar_winds_233 nobs= 57250 Min=-23.2688890269558, Max=45.78873138397292, RMS=14.15289922755693
+aircar_winds_233 nobs= 57250 Min=-23.26888900216737, Max=45.78873138373972, RMS=14.15289922738915
 
 H(x) for member 30:
 
-aircar_airTemperature_133 nobs= 26922 Min=211.8550305273466, Max=308.5569040037728, RMS=259.4385168685685
+aircar_airTemperature_133 nobs= 26922 Min=211.8550305252942, Max=308.5569040178084, RMS=259.4385168684969
 
-aircar_specificHumidity_133 nobs= 3846 Min=3.8829293778767e-06, Max=0.01979568726425778, RMS=0.00553514544919768
+aircar_specificHumidity_133 nobs= 3846 Min=3.882929404725627e-06, Max=0.01979568727329261, RMS=0.005535145449097651
 
-aircar_winds_233 nobs= 57250 Min=-25.41268996926699, Max=51.38229970047311, RMS=14.6323012417743
+aircar_winds_233 nobs= 57250 Min=-25.41269003770805, Max=51.38229993195795, RMS=14.63230124206038
 
 H(x) ensemble background mean: 
 
-aircar_airTemperature_133 nobs= 26922 Min=211.9913694493799, Max=309.0792182847188, RMS=259.4166132109344
+aircar_airTemperature_133 nobs= 26905 Min=211.9913694493799, Max=309.0792182847188, RMS=259.3952534286628
 
 aircar_specificHumidity_133 nobs= 3846 Min=4.683921221440579e-06, Max=0.01932930897498291, RMS=0.005379824306232059
 
-aircar_winds_233 nobs= 57250 Min=-23.434494229888, Max=45.81867599160341, RMS=14.20987338344304
+aircar_winds_233 nobs= 57048 Min=-23.434494229888, Max=45.81867599160341, RMS=14.19617069410928
 
 background y - H(x): 
 
-aircar_airTemperature_133 nobs= 26922 Min=-15.40330987649639, Max=11.10485138955261, RMS=1.344216688449548
+aircar_airTemperature_133 nobs= 26905 Min=-15.21525675323664, Max=8.87800672752627, RMS=1.31486321361582
 
 aircar_specificHumidity_133 nobs= 3846 Min=-0.01271070112515129, Max=0.007110782702701576, RMS=0.001547206709458285
 
-aircar_winds_233 nobs= 57250 Min=-31.73466784697695, Max=35.15872450196414, RMS=4.188078700409846
+aircar_winds_233 nobs= 57048 Min=-22.63841107022986, Max=22.94377153407526, RMS=4.031487709003979
 
+ombg RMS: 3.330198109924546
